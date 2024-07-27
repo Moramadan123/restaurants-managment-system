@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "name": "Mohammed Ramadan Mahmoud Ali",
+      "email": "moramadan744@gmail.com",
+      "pass": "1234567890",
+      "id": "008d"
+    },
+    {
+      "id": "d002",
+      "name": "Alikefnkejnkjndekjnd",
+      "email": "Alikefnkejnkjndekjnd@kd.cke",
+      "pass": "12345"
+    },
+    {
+      "id": "1926",
+      "name": "krjkhekjekje",
+      "email": "kjkdjdkjdk@kdnkd.com",
+      "pass": "dkjdkjdkdjkdjdk"
+    }
+  ],
+  "locations": [
+    {
+      "name": "KFC 123453",
+      "phone": "+01205342634263",
+      "address": "Cairo",
+      "userId": "008d",
+      "id": "86a3"
+    },
+    {
+      "id": "d35a",
+      "name": "Blbn Tanta",
+      "phone": "0120012903202390",
+      "address": "Tanta",
+      "userId": "008d"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1537",
+      "name": "الرز",
+      "userId": "008d",
+      "locationId": 73
+    },
+    {
+      "id": "cddc",
+      "name": "الايس",
+      "userId": "008d",
+      "locationId": 73
+    },
+    {
+      "id": "75f2",
+      "name": "القشطوطه",
+      "userId": "008d",
+      "locationId": 73
+    },
+    {
+      "id": "7406",
+      "name": "ekfe",
+      "userId": "008d",
+      "locationId": 4
+    },
+    {
+      "id": "8cef",
+      "name": "fkbkr",
+      "userId": "008d",
+      "locationId": 4
+    },
+    {
+      "name": ",smhdj",
+      "userId": "008d",
+      "locationId": 0,
+      "id": "869a"
+    },
+    {
+      "id": "0c0a",
+      "name": "vvvvvvvvvvvv1",
+      "userId": "008d",
+      "locationId": 3
+    },
+    {
+      "id": "894e",
+      "name": "vvvvvvvvvvvvv2",
+      "userId": "008d",
+      "locationId": 3
+    },
+    {
+      "id": "7c7a",
+      "name": "dddddd`",
+      "userId": "008d",
+      "locationId": 545
+    },
+    {
+      "id": "d18b",
+      "name": "dddddddddd2",
+      "userId": "008d",
+      "locationId": 545
+    },
+    {
+      "id": "d5fc",
+      "name": "zzz1",
+      "userId": "008d",
+      "locationId": "78"
+    },
+    {
+      "id": "9b0e",
+      "name": "kdjfjlkwem",
+      "userId": "008d",
+      "locationId": 78
+    },
+    {
+      "id": "2bb8",
+      "name": "s;,cx;w",
+      "userId": "008d",
+      "locationId": 78
+    },
+    {
+      "id": "7c04",
+      "name": "erklkjfklerj",
+      "userId": "008d",
+      "locationId": 78
+    },
+    {
+      "id": "1b50",
+      "name": "ehjfkew",
+      "userId": "008d",
+      "locationId": 78
+    },
+    {
+      "id": "ad7e",
+      "name": "Chikens",
+      "userId": "008d",
+      "locationId": 884
+    },
+    {
+      "id": "1fc0",
+      "name": "pkaef",
+      "userId": "008d",
+      "locationId": 2
+    },
+    {
+      "id": "ee1d",
+      "name": "OUR Chikens",
+      "userId": "008d",
+      "locationId": 86
+    },
+    {
+      "id": "7d02",
+      "name": "Rice",
+      "userId": "008d",
+      "locationId": null
+    },
+    {
+      "name": "third categoty",
+      "userId": "008d",
+      "locationId": 86,
+      "id": "dbb2"
+    }
+  ],
+  "items": [
+    {
+      "id": "230b",
+      "itemname": "chickens in mayonese",
+      "price": "150.00",
+      "itemsQty": 3,
+      "userId": 8,
+      "catId": "ee1d",
+      "locId": 86
+    }
+  ]
+}
